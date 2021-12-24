@@ -1,0 +1,93 @@
+body{
+  font-family: sans-serif;
+  background-color: #e7dfdf;
+}
+.container-fluid{
+  background-color: #e7dfdf;
+  .c1 {
+    background-color: #0d13a4;
+  height: 40px;
+  img{
+    margin-top: 15px;
+    margin-left: 8px;
+  }}
+  .c11{
+    background-color: #0d13a4;
+    height: 40px;
+    a{
+      text-transform: uppercase;
+      color: white;
+      font-size: 14px;
+      margin-left: 20px;
+      font-family: Aharoni;
+    }
+  }
+  .cw11{
+    margin-left: 140px;
+    &:hover{
+      background-color: white;
+    }
+    .menu2 {
+      .log{
+        margin-left: 250px;
+      }
+      a{
+      }
+      font-size: 30px;
+      margin-left: 20px;
+      font-family: "Arabic Typesetting";
+      text-transform: uppercase;
+    }
+  }
+  .crs{
+    margin-top: 10px;
+    .car_img{
+      background-color: #0d13a4;
+    a{
+      margin-top: 5px;
+      font-size: 30px;
+      font-family: Aharoni;
+      text-transform: uppercase;
+    }
+  }
+
+  }
+    .box{
+      margin-left: 400px;
+      .media
+      {font-family: David;
+        &:hover {
+        cursor: pointer;
+          font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          color: #0d13a4;
+      }
+      }
+      .btn{
+        text-align: center;
+        margin-left: -15px;
+        width: 735px;
+        height: 40px;
+        background-color: white;
+        &:hover{
+          background-color: #0d13a4;
+          color: white;
+        }
+      }
+    }
+  .box2 a{
+    margin-left: 40px;
+  }
+  .lbox{
+    margin-left: 80px;
+  }
+  a{
+    cursor: pointer;
+  }
+}
+.fab{
+  font-size: 50px;
+  color: #0d13a4;
+}
+img:hover{
+  cursor: pointer;
+}

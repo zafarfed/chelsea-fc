@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+  background-color: #e7dfdf; }
+
+.container-fluid {
+  background-color: #e7dfdf; }
+  .container-fluid .c1 {
+    background-color: #0d13a4;
+    height: 40px; }
+    .container-fluid .c1 img {
+      margin-top: 15px;
+      margin-left: 8px; }
+  .container-fluid .c11 {
+    background-color: #0d13a4;
+    height: 40px; }
+    .container-fluid .c11 a {
+      text-transform: uppercase;
+      color: white;
+      font-size: 14px;
+      margin-left: 20px;
+      font-family: Aharoni; }
+  .container-fluid .cw11 {
+    margin-left: 140px; }
+    .container-fluid .cw11:hover {
+      background-color: white; }
+    .container-fluid .cw11 .menu2 {
+      font-size: 30px;
+      margin-left: 20px;
+      font-family: "Arabic Typesetting";
+      text-transform: uppercase; }
+      .container-fluid .cw11 .menu2 .log {
+        margin-left: 250px; }
+  .container-fluid .crs {
+    margin-top: 10px; }
+    .container-fluid .crs .car_img {
+      background-color: #0d13a4; }
+      .container-fluid .crs .car_img a {
+        margin-top: 5px;
+        font-size: 30px;
+        font-family: Aharoni;
+        text-transform: uppercase; }
+  .container-fluid .box {
+    margin-left: 400px; }
+    .container-fluid .box .media {
+      font-family: David; }
+      .container-fluid .box .media:hover {
+        cursor: pointer;
+        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        color: #0d13a4; }
+    .container-fluid .box .btn {
+      text-align: center;
+      margin-left: -15px;
+      width: 735px;
+      height: 40px;
+      background-color: white; }
+      .container-fluid .box .btn:hover {
+        background-color: #0d13a4;
+        color: white; }
+  .container-fluid .box2 a {
+    margin-left: 40px; }
+  .container-fluid .lbox {
+    margin-left: 80px; }
+  .container-fluid a {
+    cursor: pointer; }
+
+.fab {
+  font-size: 50px;
+  color: #0d13a4; }
+
+img:hover {
+  cursor: pointer; }
+
+/*# sourceMappingURL=main.css.map */
